@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="IK51A8TkPdNhFsJUbr7B">
-    <mxGraphModel dx="2189" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -441,8 +441,11 @@
         <mxCell id="xtFMIBHp9Px7R9LJBJBn-36" parent="0bgc7QPW2y-0WGn35LF7-44" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" value="Documento" vertex="1">
           <mxGeometry height="30" width="66" x="180" y="5" as="geometry" />
         </mxCell>
+        <mxCell id="oklBeIcZDfDjIrgOpzRR-2" parent="0bgc7QPW2y-0WGn35LF7-44" style="whiteSpace=wrap;html=1;align=center;" value="CLI_CES" vertex="1">
+          <mxGeometry height="40" width="100" y="200" as="geometry" />
+        </mxCell>
         <mxCell id="0bgc7QPW2y-0WGn35LF7-35" parent="0bgc7QPW2y-0WGn35LF7-44" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Relationship" vertex="1">
-          <mxGeometry height="40" width="90" y="200" as="geometry" />
+          <mxGeometry height="40" width="90" x="5" y="100" as="geometry" />
         </mxCell>
         <mxCell id="0bgc7QPW2y-0WGn35LF7-50" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="80" width="236" x="850" y="1125" as="geometry" />
@@ -658,7 +661,24 @@
           <mxGeometry height="30" width="60" x="735" y="1370" as="geometry" />
         </mxCell>
         <mxCell id="0bgc7QPW2y-0WGn35LF7-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:M" vertex="1">
-          <mxGeometry height="30" width="60" x="790" y="1540" as="geometry" />
+          <mxGeometry height="30" width="60" x="720" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="oklBeIcZDfDjIrgOpzRR-7" edge="1" parent="1" source="oklBeIcZDfDjIrgOpzRR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="1545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oklBeIcZDfDjIrgOpzRR-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" value="ID_Cesta" vertex="1">
+          <mxGeometry height="30" width="66" x="744" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="oklBeIcZDfDjIrgOpzRR-6" edge="1" parent="1" source="oklBeIcZDfDjIrgOpzRR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;" target="oklBeIcZDfDjIrgOpzRR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oklBeIcZDfDjIrgOpzRR-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="Localidad" vertex="1">
+          <mxGeometry height="30" width="60" x="750" y="1575" as="geometry" />
+        </mxCell>
+        <mxCell id="oklBeIcZDfDjIrgOpzRR-8" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Relationship" vertex="1">
+          <mxGeometry height="40" width="90" x="855" y="1630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
