@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="FGfYcJKHb9Scm97HkvfT">
-    <mxGraphModel dx="3439" dy="2072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3674" dy="2279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1631,7 +1631,7 @@
             <mxPoint x="1380" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vPrNC1zccz9hNoQjGQ6B-64" parent="vPrNC1zccz9hNoQjGQ6B-731" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="PAGA_CON" vertex="1">
+        <mxCell id="vPrNC1zccz9hNoQjGQ6B-64" parent="vPrNC1zccz9hNoQjGQ6B-731" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="COMPRA" vertex="1">
           <mxGeometry height="30" width="60" x="1110" y="360" as="geometry" />
         </mxCell>
         <mxCell id="vPrNC1zccz9hNoQjGQ6B-74" parent="vPrNC1zccz9hNoQjGQ6B-731" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;container=0;" value="fecha" vertex="1">
