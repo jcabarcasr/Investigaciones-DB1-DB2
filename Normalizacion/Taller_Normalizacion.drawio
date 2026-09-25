@@ -1,26 +1,92 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="NGjtJNyKmKL_KuwLeSQj">
-    <mxGraphModel dx="1071" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2530" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sQcL2ToiSOPP2un0dFyd-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="" vertex="1">
-          <mxGeometry height="200" width="480" x="240" y="40" as="geometry" />
+        <mxCell id="sQcL2ToiSOPP2un0dFyd-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. (ID_Cita, Fecha_Cita, Hora_Cita, ID_Paciente, Nombre_Paciente, Teléfono_Paciente, ID_Doctor, Nombre_Doctor, Especialidad_Doctor, Consultorio_Asignado, Piso_Consultorio, Diagnóstico, Tratamiento_Recomendado)" vertex="1">
+          <mxGeometry height="150" width="260" x="100" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="sQcL2ToiSOPP2un0dFyd-2" parent="sQcL2ToiSOPP2un0dFyd-1" style="swimlane;startSize=20;html=1;" value="ID_Cita" vertex="1">
-          <mxGeometry height="180" width="120" y="20" as="geometry" />
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dependecias Totales" vertex="1">
+          <mxGeometry height="30" width="140" x="110" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="sQcL2ToiSOPP2un0dFyd-3" parent="sQcL2ToiSOPP2un0dFyd-1" style="swimlane;startSize=20;html=1;" value="Lane 2" vertex="1">
-          <mxGeometry height="180" width="120" x="120" y="20" as="geometry" />
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-4" edge="1" parent="1" source="Fia_0RmaFBbEIdyI5jC9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="455" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="sQcL2ToiSOPP2un0dFyd-4" parent="sQcL2ToiSOPP2un0dFyd-1" style="swimlane;startSize=20;html=1;" value="Lane 3" vertex="1">
-          <mxGeometry height="180" width="120" x="240" y="20" as="geometry" />
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-3" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="ID_Cita" vertex="1">
+          <mxGeometry height="30" width="100" x="140" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="sQcL2ToiSOPP2un0dFyd-5" parent="sQcL2ToiSOPP2un0dFyd-1" style="swimlane;startSize=20;html=1;" value="Lane 3" vertex="1">
-          <mxGeometry height="180" width="120" x="360" y="20" as="geometry" />
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-5" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="Fecha_Cita, Hora_Cita, ID_Paciente, ID_Doctor, Diagnostico.Tratamiento_Recomendado" vertex="1">
+          <mxGeometry height="70" width="240" x="320" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="sQcL2ToiSOPP2un0dFyd-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="230" y="380" as="geometry" />
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-9" edge="1" parent="1" source="Fia_0RmaFBbEIdyI5jC9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-6" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="ID_Paciente" vertex="1">
+          <mxGeometry height="30" width="100" x="140" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Una cita se identifica como ID_Cita y tiene una unica fecha, hora, paciente, doctor, diagnostico y tratamiento recomendado" vertex="1">
+          <mxGeometry height="70" width="260" x="140" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-10" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="Nombre_Paciente, Telefono_Paciente" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Un Paciente se idenfica como ID_Paciente y depende de tener un nombre y un telefono" vertex="1">
+          <mxGeometry height="70" width="260" x="160" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-12" edge="1" parent="1" source="Fia_0RmaFBbEIdyI5jC9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-13" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="ID_Doctor" vertex="1">
+          <mxGeometry height="30" width="100" x="140" y="815" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-14" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="Nombre_doctor, Especialidad_Doctor" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-17" edge="1" parent="1" source="Fia_0RmaFBbEIdyI5jC9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Fia_0RmaFBbEIdyI5jC9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-15" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="Consultorio_Asignado" vertex="1">
+          <mxGeometry height="30" width="130" x="140" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-16" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="Piso Consultorio" vertex="1">
+          <mxGeometry height="40" width="120" x="380" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Un Doctor se identifica como ID_Doctor y depende de tener un nombre y una especialidad" vertex="1">
+          <mxGeometry height="70" width="260" x="160" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Un consultorio físico está ubicado en un solo piso." vertex="1">
+          <mxGeometry height="70" width="260" x="170" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-23" edge="1" parent="1" source="Fia_0RmaFBbEIdyI5jC9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Fia_0RmaFBbEIdyI5jC9-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-21" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="ID_Doctor" vertex="1">
+          <mxGeometry height="30" width="100" x="550" y="815" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-22" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="Consultorio_Asignado" vertex="1">
+          <mxGeometry height="40" width="120" x="800" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Si el negocio define que un doctor esta asigando a un solo consultorio, este tambien depende del mismo. Si no, un doctor puede atender en varios consultorios distintos" vertex="1">
+          <mxGeometry height="70" width="260" x="590" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-25" edge="1" parent="1" source="Fia_0RmaFBbEIdyI5jC9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="Fia_0RmaFBbEIdyI5jC9-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-26" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="Especialidad_Doctor" vertex="1">
+          <mxGeometry height="30" width="130" x="550" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-27" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="Piso Consultorio" vertex="1">
+          <mxGeometry height="40" width="120" x="790" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia_0RmaFBbEIdyI5jC9-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Una especialidad puede ocupar consultorios en varios pisos. Solo sería válida si el negocio impone que cada especialidad está centralizada en un único piso." vertex="1">
+          <mxGeometry height="70" width="260" x="600" y="1030" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
