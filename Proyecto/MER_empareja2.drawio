@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="14do_NgsicjUd66GdzRW">
-    <mxGraphModel dx="5986" dy="3097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3649" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,7 +214,7 @@
         <mxCell id="0xyKPlLJWFZljCJkwb7O-37" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="LIKE" vertex="1">
           <mxGeometry height="40" width="100" x="-780" y="-410" as="geometry" />
         </mxCell>
-        <mxCell id="0xyKPlLJWFZljCJkwb7O-38" parent="1" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Relationship" vertex="1">
+        <mxCell id="0xyKPlLJWFZljCJkwb7O-38" parent="1" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Dar" vertex="1">
           <mxGeometry height="60" width="120" x="-1080" y="-420" as="geometry" />
         </mxCell>
         <mxCell id="0xyKPlLJWFZljCJkwb7O-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" value="documento" vertex="1">
