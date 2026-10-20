@@ -276,6 +276,9 @@
         <mxCell id="0xyKPlLJWFZljCJkwb7O-65" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="foto_perfil" vertex="1">
           <mxGeometry height="40" width="100" x="-1830" y="-260" as="geometry" />
         </mxCell>
+        <mxCell id="0xyKPlLJWFZljCJkwb7O-66" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="rol" vertex="1">
+          <mxGeometry height="40" width="100" x="-1780" y="-330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
