@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="14do_NgsicjUd66GdzRW">
-    <mxGraphModel dx="3285" dy="3245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3045" dy="2975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,9 +331,6 @@
         </mxCell>
         <mxCell id="-XL9h03H7tu2s417C2Gv-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="semestre" vertex="1">
           <mxGeometry height="40" width="100" x="-1615" y="-140" as="geometry" />
-        </mxCell>
-        <mxCell id="-XL9h03H7tu2s417C2Gv-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" value="reacciones_recibidad" vertex="1">
-          <mxGeometry height="40" width="130" x="-210" y="-480" as="geometry" />
         </mxCell>
         <mxCell id="-XL9h03H7tu2s417C2Gv-21" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Ofrecer" vertex="1">
           <mxGeometry height="60" width="120" x="-1720" y="160" as="geometry" />
