@@ -211,7 +211,7 @@
         <mxCell id="0xyKPlLJWFZljCJkwb7O-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0:N" vertex="1">
           <mxGeometry height="30" width="60" x="-885" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="0xyKPlLJWFZljCJkwb7O-37" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="LIKE" vertex="1">
+        <mxCell id="0xyKPlLJWFZljCJkwb7O-37" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="REACCION" vertex="1">
           <mxGeometry height="40" width="100" x="-780" y="-410" as="geometry" />
         </mxCell>
         <mxCell id="0xyKPlLJWFZljCJkwb7O-38" parent="1" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Dar" vertex="1">
@@ -301,7 +301,7 @@
         <mxCell id="0xyKPlLJWFZljCJkwb7O-75" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="fecha_hora" vertex="1">
           <mxGeometry height="40" width="100" x="-660" y="-410" as="geometry" />
         </mxCell>
-        <mxCell id="0xyKPlLJWFZljCJkwb7O-77" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="tipo_like" vertex="1">
+        <mxCell id="0xyKPlLJWFZljCJkwb7O-77" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="tipo_reaccion" vertex="1">
           <mxGeometry height="40" width="100" x="-690" y="-470" as="geometry" />
         </mxCell>
         <mxCell id="0xyKPlLJWFZljCJkwb7O-80" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="tipo_reporte" vertex="1">
@@ -352,7 +352,7 @@
         <mxCell id="0xyKPlLJWFZljCJkwb7O-98" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="id_comentario" vertex="1">
           <mxGeometry height="40" width="100" x="-680" y="-740" as="geometry" />
         </mxCell>
-        <mxCell id="0xyKPlLJWFZljCJkwb7O-100" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="id_like" vertex="1">
+        <mxCell id="0xyKPlLJWFZljCJkwb7O-100" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="id_reaccion" vertex="1">
           <mxGeometry height="40" width="100" x="-820" y="-480" as="geometry" />
         </mxCell>
         <mxCell id="-XL9h03H7tu2s417C2Gv-1" edge="1" parent="1" source="0xyKPlLJWFZljCJkwb7O-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MzgQdofNbWO85Zqb-OTX-15">
