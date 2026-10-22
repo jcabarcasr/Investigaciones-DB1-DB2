@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="14do_NgsicjUd66GdzRW">
-    <mxGraphModel dx="3649" dy="2981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3240" dy="3195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,20 +298,11 @@
         <mxCell id="0xyKPlLJWFZljCJkwb7O-74" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="url" vertex="1">
           <mxGeometry height="40" width="100" x="-1500" y="-1030" as="geometry" />
         </mxCell>
-        <mxCell id="0xyKPlLJWFZljCJkwb7O-75" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="fecha" vertex="1">
+        <mxCell id="0xyKPlLJWFZljCJkwb7O-75" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="fecha_hora" vertex="1">
           <mxGeometry height="40" width="100" x="-660" y="-410" as="geometry" />
-        </mxCell>
-        <mxCell id="0xyKPlLJWFZljCJkwb7O-76" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="hora" vertex="1">
-          <mxGeometry height="40" width="100" x="-690" y="-335" as="geometry" />
         </mxCell>
         <mxCell id="0xyKPlLJWFZljCJkwb7O-77" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="tipo_like" vertex="1">
           <mxGeometry height="40" width="100" x="-690" y="-470" as="geometry" />
-        </mxCell>
-        <mxCell id="0xyKPlLJWFZljCJkwb7O-78" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="fecha" vertex="1">
-          <mxGeometry height="40" width="100" x="-460" y="-100" as="geometry" />
-        </mxCell>
-        <mxCell id="0xyKPlLJWFZljCJkwb7O-79" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="hora" vertex="1">
-          <mxGeometry height="40" width="100" x="-430" y="-50" as="geometry" />
         </mxCell>
         <mxCell id="0xyKPlLJWFZljCJkwb7O-80" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="tipo_reporte" vertex="1">
           <mxGeometry height="40" width="100" x="-320" y="-110" as="geometry" />
@@ -355,11 +346,8 @@
         <mxCell id="0xyKPlLJWFZljCJkwb7O-95" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="contenido" vertex="1">
           <mxGeometry height="40" width="100" x="-560" y="-715" as="geometry" />
         </mxCell>
-        <mxCell id="0xyKPlLJWFZljCJkwb7O-96" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="fecha" vertex="1">
+        <mxCell id="0xyKPlLJWFZljCJkwb7O-96" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="fecha_hora" vertex="1">
           <mxGeometry height="40" width="100" x="-560" y="-650" as="geometry" />
-        </mxCell>
-        <mxCell id="0xyKPlLJWFZljCJkwb7O-97" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="hora" vertex="1">
-          <mxGeometry height="40" width="100" x="-550" y="-600" as="geometry" />
         </mxCell>
         <mxCell id="0xyKPlLJWFZljCJkwb7O-98" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=20;" value="id_comentario" vertex="1">
           <mxGeometry height="40" width="100" x="-680" y="-740" as="geometry" />
@@ -384,6 +372,9 @@
         </mxCell>
         <mxCell id="-XL9h03H7tu2s417C2Gv-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" value="tipo_documento" vertex="1">
           <mxGeometry height="40" width="100" x="-1610" y="-350" as="geometry" />
+        </mxCell>
+        <mxCell id="-XL9h03H7tu2s417C2Gv-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="fecha_hora" vertex="1">
+          <mxGeometry height="40" width="100" x="-435" y="-90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
