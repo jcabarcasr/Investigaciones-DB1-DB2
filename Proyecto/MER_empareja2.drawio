@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="14do_NgsicjUd66GdzRW">
-    <mxGraphModel dx="2942" dy="2859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3275" dy="3235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,16 +288,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-XL9h03H7tu2s417C2Gv-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="fecha_nacimiento" vertex="1">
-          <mxGeometry height="40" width="100" x="-190" y="-390" as="geometry" />
+          <mxGeometry height="40" width="100" x="-90" y="-430" as="geometry" />
         </mxCell>
         <mxCell id="-XL9h03H7tu2s417C2Gv-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" value="tipo_documento" vertex="1">
           <mxGeometry height="40" width="100" x="-10" y="-660" as="geometry" />
         </mxCell>
         <mxCell id="-XL9h03H7tu2s417C2Gv-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="fecha_hora" vertex="1">
           <mxGeometry height="40" width="100" x="-435" y="-90" as="geometry" />
-        </mxCell>
-        <mxCell id="-XL9h03H7tu2s417C2Gv-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="reacciones_recibidas" vertex="1">
-          <mxGeometry height="40" width="130" x="-210" y="-470" as="geometry" />
         </mxCell>
         <mxCell id="-XL9h03H7tu2s417C2Gv-11" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Estudiar" vertex="1">
           <mxGeometry height="60" width="120" x="-1725" y="-190" as="geometry" />
@@ -334,6 +331,9 @@
         </mxCell>
         <mxCell id="-XL9h03H7tu2s417C2Gv-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="semestre" vertex="1">
           <mxGeometry height="40" width="100" x="-1615" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="-XL9h03H7tu2s417C2Gv-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" value="reacciones_recibidad" vertex="1">
+          <mxGeometry height="40" width="130" x="-210" y="-480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
