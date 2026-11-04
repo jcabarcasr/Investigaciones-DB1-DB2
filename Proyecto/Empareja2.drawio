@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="14do_NgsicjUd66GdzRW">
-    <mxGraphModel dx="1889" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3970" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry height="185" width="380" x="4313" y="471" as="geometry" />
         </mxCell>
         <mxCell id="ybggss8LkhMsL1Qay4fR-655" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 57px;&quot;&gt;REDUCCION&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 57px;&quot;&gt;TABLAS&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="185" width="380" x="820" y="2674" as="geometry" />
+          <mxGeometry height="185" width="380" x="832" y="2600" as="geometry" />
         </mxCell>
         <mxCell id="ybggss8LkhMsL1Qay4fR-656" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="UNIVERSIDAD" vertex="1">
           <mxGeometry height="40" width="100" x="780" y="1704" as="geometry" />
