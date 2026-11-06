@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="14do_NgsicjUd66GdzRW">
-    <mxGraphModel dx="1310" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1209,8 +1209,8 @@
             <mxPoint x="1170" y="3034" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bl4M-55iPgV2s0ZOC2pS-55" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="nombre_red_social" vertex="1">
-          <mxGeometry height="40" width="120" x="1241" y="2954" as="geometry" />
+        <mxCell id="bl4M-55iPgV2s0ZOC2pS-55" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="url_perfil" vertex="1">
+          <mxGeometry height="40" width="100" x="1250" y="2953" as="geometry" />
         </mxCell>
         <mxCell id="bl4M-55iPgV2s0ZOC2pS-56" edge="1" parent="1" source="bl4M-55iPgV2s0ZOC2pS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="bl4M-55iPgV2s0ZOC2pS-110">
           <mxGeometry relative="1" as="geometry" />
@@ -1428,14 +1428,6 @@
         </mxCell>
         <mxCell id="bl4M-55iPgV2s0ZOC2pS-110" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="REPORTE" vertex="1">
           <mxGeometry height="40" width="100" x="320" y="3734" as="geometry" />
-        </mxCell>
-        <mxCell id="JFLv9bcD4_cmSxtmkTnr-37" edge="1" parent="1" source="bl4M-55iPgV2s0ZOC2pS-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1170" y="3034" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bl4M-55iPgV2s0ZOC2pS-111" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="nombre_usuario_red_social" vertex="1">
-          <mxGeometry height="40" width="165" x="1250" y="3014" as="geometry" />
         </mxCell>
         <mxCell id="bl4M-55iPgV2s0ZOC2pS-112" edge="1" parent="1" source="bl4M-55iPgV2s0ZOC2pS-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="bl4M-55iPgV2s0ZOC2pS-117">
           <mxGeometry relative="1" as="geometry" />
