@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="14do_NgsicjUd66GdzRW">
-    <mxGraphModel dx="690" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1196" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1763,7 +1763,7 @@
         <mxCell id="JFLv9bcD4_cmSxtmkTnr-9" edge="1" parent="1" source="JFLv9bcD4_cmSxtmkTnr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="bl4M-55iPgV2s0ZOC2pS-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JFLv9bcD4_cmSxtmkTnr-6" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Reportar" vertex="1">
+        <mxCell id="JFLv9bcD4_cmSxtmkTnr-6" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Ser_Reportado" vertex="1">
           <mxGeometry height="60" width="120" x="712" y="3844" as="geometry" />
         </mxCell>
         <mxCell id="JFLv9bcD4_cmSxtmkTnr-7" edge="1" parent="1" source="JFLv9bcD4_cmSxtmkTnr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.318;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="bl4M-55iPgV2s0ZOC2pS-90">
@@ -1790,7 +1790,7 @@
         <mxCell id="JFLv9bcD4_cmSxtmkTnr-16" edge="1" parent="1" source="JFLv9bcD4_cmSxtmkTnr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="bl4M-55iPgV2s0ZOC2pS-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JFLv9bcD4_cmSxtmkTnr-13" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Comentar" vertex="1">
+        <mxCell id="JFLv9bcD4_cmSxtmkTnr-13" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Recibir_comentario" vertex="1">
           <mxGeometry height="60" width="120" x="507" y="3247" as="geometry" />
         </mxCell>
         <mxCell id="JFLv9bcD4_cmSxtmkTnr-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N:1" vertex="1">
@@ -1813,7 +1813,7 @@
         <mxCell id="JFLv9bcD4_cmSxtmkTnr-31" edge="1" parent="1" source="JFLv9bcD4_cmSxtmkTnr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="bl4M-55iPgV2s0ZOC2pS-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JFLv9bcD4_cmSxtmkTnr-20" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Reaccionar" vertex="1">
+        <mxCell id="JFLv9bcD4_cmSxtmkTnr-20" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Recibir_reaccion" vertex="1">
           <mxGeometry height="60" width="120" x="502" y="3534" as="geometry" />
         </mxCell>
         <mxCell id="JFLv9bcD4_cmSxtmkTnr-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N:1" vertex="1">
@@ -1825,7 +1825,7 @@
         <mxCell id="JFLv9bcD4_cmSxtmkTnr-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0:N" vertex="1">
           <mxGeometry height="30" width="60" x="630" y="3534" as="geometry" />
         </mxCell>
-        <mxCell id="JFLv9bcD4_cmSxtmkTnr-32" parent="1" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Realizar" vertex="1">
+        <mxCell id="JFLv9bcD4_cmSxtmkTnr-32" parent="1" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Reportar" vertex="1">
           <mxGeometry height="60" width="120" x="707" y="3724" as="geometry" />
         </mxCell>
         <mxCell id="JFLv9bcD4_cmSxtmkTnr-40" edge="1" parent="1" source="JFLv9bcD4_cmSxtmkTnr-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;">
