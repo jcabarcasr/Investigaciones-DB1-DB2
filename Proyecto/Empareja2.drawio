@@ -1448,9 +1448,7 @@
         <mxCell id="bl4M-55iPgV2s0ZOC2pS-133" edge="1" parent="1" source="bl4M-55iPgV2s0ZOC2pS-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="bl4M-55iPgV2s0ZOC2pS-90">
           <mxGeometry relative="1" x="0.0658" as="geometry">
             <Array as="points">
-              <mxPoint x="1260" y="3624" />
-              <mxPoint x="1260" y="3580" />
-              <mxPoint x="1160" y="3580" />
+              <mxPoint x="1160" y="3624" />
             </Array>
             <mxPoint x="1356" y="3624" as="sourcePoint" />
           </mxGeometry>
