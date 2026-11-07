@@ -1923,7 +1923,7 @@
         <mxCell id="IDSEaoVLiR0_4M824D3K-8" edge="1" parent="1" source="IDSEaoVLiR0_4M824D3K-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="ybggss8LkhMsL1Qay4fR-775">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IDSEaoVLiR0_4M824D3K-5" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Cursar" vertex="1">
+        <mxCell id="IDSEaoVLiR0_4M824D3K-5" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Estudiar_en" vertex="1">
           <mxGeometry height="60" width="120" x="4490" y="1761" as="geometry" />
         </mxCell>
         <mxCell id="IDSEaoVLiR0_4M824D3K-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;0:N&lt;/div&gt;" vertex="1">
